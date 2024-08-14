@@ -2,7 +2,7 @@
 
 Welcome to the repository for the HooBank website project! This project showcases my skills in frontend development using React and Vite, demonstrating my ability to create a cutting-edge, secure, and user-friendly platform for financial services.
 
-You can view the live website here: [HooBank](https://hoobank.com)
+You can view the live website here: [HooBank](https://hoobusiness.website/)
 
 ![HooBank Website Screenshot](HooBank.png)
 
